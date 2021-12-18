@@ -1,0 +1,42 @@
+
+h1 {
+    color: red;
+    text-align: center;
+} 
+
+.p1 {
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    border: 2px red solid;
+    padding: 15px;
+}
+
+.p2 {
+    line-height: 1.6em;
+    color: #1F3AEA
+} 
+
+.p3 {
+    line-height: 1.6em;
+    color:#EA471F;
+} 
+
+ul {
+    color:seagreen;
+    margin-left: 500px;
+    
+
+    
+}
+.list {
+    border: turquoise 3px solid;
+    border-radius: 50px;
+    
+    
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
